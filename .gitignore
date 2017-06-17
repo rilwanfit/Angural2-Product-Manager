@@ -1,0 +1,8 @@
+# List of files and directories to be ignored when versioning
+/node_modules/
+
+# IDE-specific
+/.idea/
+
+# MacOS
+*.DS_Store
